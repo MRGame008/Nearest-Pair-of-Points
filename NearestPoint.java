@@ -3,9 +3,6 @@ package AlgorithimDesign;
 import javax.swing.*;
 import java.awt.*;
 import java.util.*;
-//Sara Nikoui 400149076
-//Fatemieh Nikkhah 400149075
-//Pouria Hosseini Dokht 400149019
 
 public class NearestPoint extends JPanel{
     public static void TestUnit() throws InterruptedException {
